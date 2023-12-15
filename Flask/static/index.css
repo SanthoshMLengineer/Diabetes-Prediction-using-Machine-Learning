@@ -1,0 +1,63 @@
+body { 
+  background-color: #1e012c;
+}
+
+#title {
+  color: white;
+  font-size: 28px;
+  margin-left: 36%;
+}
+
+#formregion {
+  float: right;
+  width: 40%;
+  margin-top: -27%;
+}
+
+input[type=text]{
+  height: 40px;
+  width: 50%;
+}
+
+#Glucose {
+  margin-left: 25%;
+}
+
+#Pregnancies {
+  margin-left: 20%;
+}
+
+#BloodPressure {
+  margin-left: 18%;
+}
+
+#SkinThickness {
+  margin-left: 18%;
+}
+
+#Insulin {
+  margin-left: 19%;
+}
+
+#BMI {
+  margin-left: 28%;
+}
+
+#DiabetesPedigreeFunction {
+  margin-left: 5%;
+}
+
+#Age {
+  margin-left: 29%;
+}
+
+/* Submit Button */
+#submitbutton {
+    color: black;
+    background: #e0cfe8;
+    width: 50%;
+    height: 45px;
+    border-radius: 4px;
+    margin-left: 20%;
+    margin-top: 5%;
+}
